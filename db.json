@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Ramandeep singh",
+      "email": "ramandeep007@gmail.com",
+      "phone": "9471486607",
+      "website": "www.google.com",
+      "id": 1
+    },
+    {
+      "name": "lucky",
+      "email": "lakhwinder@gmail.com",
+      "phone": "569874560",
+      "website": "www.google.com",
+      "id": 2
+    },
+    {
+      "name": "adam",
+      "email": "adam@gmail.com",
+      "phone": "987456321",
+      "website": "www.google.com",
+      "id": 3
+    },
+    {
+      "name": "vishavdeep kaur",
+      "email": "vishavdeep551@gmail.com",
+      "phone": "9478227474",
+      "website": "www.google.com",
+      "id": 4
+    },
+    {
+      "name": "manpreet kaur",
+      "email": "manpreet551@gmail.com",
+      "phone": "9478227474",
+      "website": "www.google.com",
+      "id": 5
+    },
+    {
+      "name": "Prabhjot kaur",
+      "email": "test@admin.gvkhkjhkcom",
+      "phone": "9478227474",
+      "website": "www.google.com",
+      "id": 6
+    }
+  ]
+}
